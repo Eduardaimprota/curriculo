@@ -1,0 +1,17 @@
+.ladoesquerdo{
+    width:28%;
+    float:left;
+    background-color: darkslateblue;
+}
+img{
+    width: 115px;
+    height: 115px;
+    border-radius: 50%;
+}
+.ladodireito{
+    width: 70%;
+    float: right;
+    background-color: darkslategray;
+}
+
+
